@@ -1,1 +1,2 @@
-Configuración terminada #yippie 
+Este Repo es Público
+
